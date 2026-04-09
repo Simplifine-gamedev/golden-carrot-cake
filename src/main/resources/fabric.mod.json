@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "goldencarrotcake",
+  "version": "1.0.0",
+  "name": "Golden Carrot Cake",
+  "description": "Adds a Golden Carrot Cake food item that restores hunger and grants regeneration",
+  "authors": ["ali77sina"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.orca.goldencarrotcake.GoldenCarrotCakeMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

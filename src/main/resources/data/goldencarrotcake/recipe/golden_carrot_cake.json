@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:golden_carrot"},
+    {"item": "minecraft:golden_carrot"},
+    {"item": "minecraft:sugar"},
+    {"item": "minecraft:wheat"}
+  ],
+  "result": {
+    "id": "goldencarrotcake:golden_carrot_cake",
+    "count": 1
+  }
+}
